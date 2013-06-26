@@ -2,4 +2,5 @@ Use this README file to introduce your application and point to useful places in
 Run "rake doc:app" to generate API documentation for your models, controllers, helpers, and libraries.
 
 
-Got to: "3.2  Our first tests" -- pick up from there
+
+Go to 5.2 Sass and the Asset Pipeline
