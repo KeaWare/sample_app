@@ -2,4 +2,5 @@ Use this README file to introduce your application and point to useful places in
 Run "rake doc:app" to generate API documentation for your models, controllers, helpers, and libraries.
 
 
-7.2 Signup Form
+8.2 Signin success
+8.2.4 Changing the layout links
