@@ -4,3 +4,7 @@ Run "rake doc:app" to generate API documentation for your models, controllers, h
 
 8.2 Signin success
 8.2.4 Changing the layout links
+9.1.2 Unsuccessful edits
+9.2.3 Friendly forwarding
+9.3.2 Sample users
+9.4.1 Administrative users
