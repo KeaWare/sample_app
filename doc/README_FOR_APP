@@ -8,3 +8,5 @@ Run "rake doc:app" to generate API documentation for your models, controllers, h
 9.2.3 Friendly forwarding
 9.3.2 Sample users
 9.4.1 Administrative users
+10.2.1 Augmenting the user show page
+10.3.3 A proto-feed -- right before, trying to get tests to pass
